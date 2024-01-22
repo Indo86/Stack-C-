@@ -29,7 +29,7 @@ int main()
 	push(4);
 	push(3);
 	push(20);
-
+        push(24);
 	cout << endl;
 	cetak();
 	cout << endl;
