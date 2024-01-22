@@ -26,9 +26,9 @@ int main()
 
 	buatStack();
 	push(12);
-	// push(4);
-	// push(3);
-	// push(20);
+	push(4);
+	push(3);
+	push(20);
 
 	cout << endl;
 	cetak();
