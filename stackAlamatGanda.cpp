@@ -25,7 +25,7 @@ int main()
 {
 
 	buatStack();
-	push(12);
+	push(55);
 	push(4);
 	push(3);
 	push(20);
